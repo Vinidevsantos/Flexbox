@@ -4,7 +4,7 @@
 </a>
 
 
-## 📸 Screenshots
+## 📸 Link Vercel da demo
 
 <p align="center">
   <a href="https://flexbox-h7j87pzjo.vercel.app/"> 
