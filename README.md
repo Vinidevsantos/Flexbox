@@ -1,6 +1,6 @@
 <h2 align="center">
 <a href="https://flexbox-h7j87pzjo.vercel.app/">  
-<img src="https://img.shields.io/badge/FlexBox-%232-blueviolet?style=for-the-badge" alt="FlexBox" />
+<img src="https://img.shields.io/badge/FlexBox-%132-blue?style=for-the-badge" alt="FlexBox" />
 </a>
 
 ## 📸 Screenshots
