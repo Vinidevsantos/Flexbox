@@ -5,9 +5,10 @@
 
 ## 📸 Screenshots
 
-<p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
-  <img src="https://github.com/Vinidevsantos/Flexbox/blob/master/images/twitterFlexBox.jpg?raw=true" alt="Landing Page Proffy in Desktop" />
+  <a href="https://flexbox-h7j87pzjo.vercel.app/"> 
+  <img src="https://github.com/Vinidevsantos/Flexbox/blob/master/images/twitterFlexBox.jpg?raw=true" alt="Twitter Page" />
+    </a>
 </p>
 
 ## 📜 License
