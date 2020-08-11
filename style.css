@@ -100,16 +100,22 @@ header#main-header div.side button{
 }
 
 div.banner {
- height: 380px;
- width: 100%;
- background: #3bb9e3;
+  height: 400px;
+  width: 100%;
+  background: #3bb9e3;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+  color: #fff;
+ }
 
- display: flex;
- align-items: center;
- justify-content: center;
+ div.banner .banner-img {
+  height: 400px;
+  width: 100%;
+ }
 
- color: #fff;
-}
 
 div.bar {
  height: 59px;
@@ -276,6 +282,13 @@ div.wrapper-content aside.profile .followers ul li {
  margin: 0 5px 5px 0;
 }
 
+div.wrapper-content aside.profile .followers ul li img {
+  width: 45px;
+  height: 45px;
+  background: #d0d4d9;
+  border-radius: 50%;
+ }
+
 div.wrapper-content aside.profile .images ul {
  list-style: none;
  display: flex;
@@ -285,11 +298,16 @@ div.wrapper-content aside.profile .images ul {
 div.wrapper-content aside.profile .images ul li {
  width: 80px;
  height: 80px;
- background: #d0d5d9;
- border-radius: 8px;
  flex: 1 0 auto;
  margin: 0 5px 5px 0;
 }
+
+div.wrapper-content aside.profile .images ul li img {
+  width: 80px;
+  height: 80px;
+  background: #d0d5d9;
+  border-radius: 8px;
+ }
 
 div.wrapper-content .timeline {
  flex: 1;
@@ -416,8 +434,8 @@ div.wrapper-content aside.widgets .widget .title a::before{
  height: 2px;
  border-radius: 50%;
  background: #000;
- margin-left: 5px;
- margin-right: 5px;
+ margin-left: 6px;
+ margin-right: 10px;
 position: absolute;
 left: 4px;
 top: 6px;
